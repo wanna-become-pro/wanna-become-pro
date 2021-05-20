@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-![Akshat GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatofficial&show_icons=true&theme=tokyonight)
+![Akshat GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanna-become-pro&show_icons=true&theme=tokyonight)
 <br/>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatofficial&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-become-pro&langs_count=3&theme=tokyonight)]()
 
